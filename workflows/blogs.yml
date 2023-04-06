@@ -1,0 +1,16 @@
+name: My Latest Hashnode Articles
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-devto-articles:
+    name: Update this repo's README with latest DEV.to Articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "HASHNODE-BLOG"
+          feed_list: "https://mukund-tandon-dev.hashnode.dev/rss.xml"
