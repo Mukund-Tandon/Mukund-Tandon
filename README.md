@@ -12,5 +12,6 @@
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 <!-- HASHNODE-BLOG:START -->
+- [Access your API &lpar;Django&rpar; running on Localhost from Android Device](https://mukund-tandon-dev.hashnode.dev/access-your-api-django-running-on-localhost-from-android-device)
 <!-- HASHNODE-BLOG:END -->
 
