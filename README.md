@@ -11,10 +11,6 @@
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
+<!-- HASHNODE-BLOG:START -->
+<!-- HASHNODE-BLOG:END -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-Mukund-Tandon/Mukund-Tandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
