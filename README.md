@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Mukund-Tandon<br>👀 I’m interested in App Development<br>🌱 I’m currently learning Django<br> 💞️ I’m looking to collaborate on Flutter Projects<br> 📫 How to reach me email- mukundtandon1211@gmail.com
+👋 Hi, I’m @Mukund-Tandon<br>👀 I’m interested in App Development<br>🌱 I’m currently learning Rust🦀<br> 💞️ I’m looking to collaborate on Flutter Projects<br> 📫 How to reach me email- mukundtandon1211@gmail.com
 
 
 ## 🌐 Socials:
@@ -10,8 +10,13 @@
 
 
 # My Projects
-
-## 1 [Chat App](https://github.com/Mukund-Tandon/Chat-App)
+## 1 [File Storage App](https://github.com/Mukund-Tandon/file_storage)
+- Developed a Cloud file storage application with frontend App in flutter and custom back-end implemented using Django Rest Framework
+- Implemented authentication using Firebase and then used the JWT authentication tokens from Firebase to Authorise the user accessing the APIs endpoint
+- Implement monthly premium subscription using Stripe
+- Users can share there file link and can later make that link private if they don’t want anyone with the link to access the file
+- We can also download the file on our local device
+## 2 [Chat App](https://github.com/Mukund-Tandon/Chat-App)
 - Developed a chat app for sharing text messages and images using Flutter, Firebase, SQLite and Bloc
 - This App is made using Clean Architecture
 - The text messages are encrypted before sending to the server
@@ -21,7 +26,7 @@
 - User will know when the message is read and will also receive visual cues when another user will be typing
 - Once the Receiver has recieved the message it will be deleted from the server
 
-## 2 [Calorie Diary](https://github.com/Mukund-Tandon/Calory-Diary)
+## 3 [Calorie Diary](https://github.com/Mukund-Tandon/Calory-Diary)
 - Developed a Calorie Diary App to keep track of Calorie intake and Burned
 - All data is stored on the users phone using SQLite Database
 - User can also see their entries of any date
