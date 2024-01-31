@@ -50,6 +50,7 @@ https://github.com/Mukund-Tandon/Mukund-Tandon/assets/71614009/e105139d-e5b5-48f
 
 # My Articles
 <!-- HASHNODE-BLOG:START -->
+- [Your Post Title](https://mukund-tandon-dev.hashnode.dev/your-post-title)
 - [Access your API &lpar;Django&rpar; running on Localhost from Android Device](https://mukund-tandon-dev.hashnode.dev/access-your-api-django-running-on-localhost-from-android-device)
 <!-- HASHNODE-BLOG:END -->
 
