@@ -50,8 +50,6 @@ https://github.com/Mukund-Tandon/Mukund-Tandon/assets/71614009/e105139d-e5b5-48f
 
 # My Articles
 <!-- HASHNODE-BLOG:START -->
-- [blog 2 updated - tesy](https://mukund-tandon-dev.hashnode.dev/blog-2-updated-tesy)
-- [blog 2](https://mukund-tandon-dev.hashnode.dev/blog-2)
 - [Access your API &lpar;Django&rpar; running on Localhost from Android Device](https://mukund-tandon-dev.hashnode.dev/access-your-api-django-running-on-localhost-from-android-device)
 <!-- HASHNODE-BLOG:END -->
 
